@@ -857,7 +857,7 @@ section {
 /* Call To Action Section
 --------------------------------*/
 #skills {
-  padding: 60px 0;
+  padding: 10px 0;
 }
 
 #skills .progress {
@@ -868,9 +868,9 @@ section {
 
 #skills .progress .skill {
   font-family: "Open Sans", sans-serif;
-  line-height: 35px;
+  /* line-height: 35px; */
   padding: 0;
-  margin: 0 0 0 20px;
+  margin: 0 0 0 10px;
   text-transform: uppercase;
 }
 
